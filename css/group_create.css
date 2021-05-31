@@ -69,39 +69,18 @@ input::-moz-placeholder { color: #D8D8D8; }
 	border: none;
 }
 
-.layout1 {
+.layout_box {
 	margin-top: 7%;
 }
 
-.layout2 {
-	margin-top: 5%;
-}
-
-.layout3 {
-	margin-top: 5%;
-}
-
-.layout4 {
-	margin-top: 5%;
-}
-
-.layout5 {
-	margin-top: 5%;
-}
-
-.layout6 {
-	margin-top: 5%;
-}
-
-.layout7 {
+.layout_group_title_box {
 	text-align: center;
 	margin-top: 5%;
 }
 
-.layout8 {
+.layout_group_about_box {
 	margin-top: 5%;
 	margin-bottom: 8%;
-
 }
 
 .layout {
@@ -147,7 +126,7 @@ textarea {
 	margin-top: 2%;
 	margin-left: 2%;
 	border-radius: 10px;
-	box-shadow: 0px 15px 50px #D8D8D8;
+	box-shadow: 0px 10px 50px #f0f0f0;
 	font-size: 20px;
 	padding:25px;
 	outline: none;

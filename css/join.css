@@ -56,12 +56,12 @@ video { width: 100%; }
 	background-color:#00000000; 
 	font-family: 'Noto Sans KR', sans-serif; 
 	font-weight: 500; 
-	margin-top: 1%; 
+	margin-top: 2%; 
 	padding-left: 1%;
+    padding-bottom:1%;
 	width: 30%; 
 	height: 7%; 
-	color: black; 
-	border:0; 
+	border:0;
 	border-bottom:solid 1px #FFFFFF;
 }
 
@@ -70,8 +70,10 @@ video { width: 100%; }
 	background-color:#00000000; 
 	font-family: 'Noto Sans KR', sans-serif; 
 	font-weight: 500; 
-	margin-top: 1%; 
+	margin-top: 2%; 
 	padding-left: 1%;
+    padding-bottom:1%;
+	width: 30%;
 	width: 30%; 
 	height: 7%; 
 	color: black; 
@@ -80,16 +82,16 @@ video { width: 100%; }
 }
 
 .container2 input[type=button] { 
-	font-size: 1em; 
+	font-size: 0.8em; 
 	background-color:#FF002E; 
 	font-family: 'Noto Sans KR', sans-serif; 
-	font-weight: 300; 
+	font-weight: 300;
 	margin-top: 1%;
 	margin: 0 auto;
-	width: 5%; 
-	height: 5%; 
+	width: 4.5%; 
+	height: 50px;
 	color: black; 
-	border:0; 
+	border:0;
 	border-radius: 10px; 
 	color: #FFFFFF;
 }
@@ -118,14 +120,14 @@ input::-ms-input-placeholder { color: #F2F2F2; }
 input::-webkit-input-placeholder { color: #F2F2F2; }
 input::-moz-placeholder { color: #F2F2F2; }
 
-.container2 button { 
+.container2 #join_btn { 
 	font-size: 20px; 
 	color: #FFFFFF; 
 	font-family: 'Noto Sans KR', sans-serif; 
 	font-weight: 500; 
-	margin-top: 1.5%;
+	margin-top: 2%;
 	width: 32%; 
-	height: 7%; 
+	height: 50px; 
 	background-color: #FF002E; 
 	border-radius:30px;  
 	border: none; 
